@@ -1,0 +1,38 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="superiorelnula.com" resolutions="1x" timestamp="1589663331028">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3896105597" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="260572776" seo="true" mt="1589663325518" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="213004480"/>
+    <file name="index.css" crc="3942818260" ref="index"/>
+    <file name="master_extassis.css" crc="4104021632" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index"/>
+    <file name="museutils.js" crc="340535759" ref="index:phone>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:phone>index"/>
+    <file name="require.js" crc="7928878" ref="index:phone>index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-n.png" crc="112185749" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="1015fm" alt=""/>
+      <caption webpage="1013fm" alt=""/>
+      <caption webpage="981fm" alt=""/>
+      <caption webpage="1005fm" alt=""/>
+    </file>
+    <file name="inicio-favicon.ico" crc="4205902090" ref="phone>index"/>
+    <file name="candela366x348.png" crc="1427176" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="candela.png" crc="4140833336" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3871636590" seo="true" mt="1589663306523" redirect="true"/>
+</manifest>
